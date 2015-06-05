@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/themes/louis/", 
+            "text": "Louis - Agency HTML Theme\n\n\nCreative Agency Theme by Design Estate.\n\n\nIt is designed to offer a scalable, easy to use and view theme, that has premium design principles applied to it.\n\n\nThe files of this theme\n\n\nWhen you download the theme from themeforest you get a *.zip file. After extraction you'll have a folder with the folloing structure:\n\n\n\n\nstatic/\n\n\npreprocessing/\n\n\n\n\nThe static/ folder includes the complete theme as compiled, ready to serve html, css and js.\nThe preprocessing/ folder includes the files that were used to compile the static folder. It requires jade, sass, and coffee.\n\n\nThe theme is based on the mojo.io preprocessing framework.\n\n\nThe basic logic of this theme\n\n\nTo work with the theme we recommend you read this section to get a sense of how the theme works.\n\n\nThe wrapper\n\n\nThis theme has a wrapper. By wrapper we mean all content that permanently visible throughout all pages.", 
+            "title": "Louis Theme"
+        }, 
+        {
+            "location": "/themes/louis/#louis-agency-html-theme", 
+            "text": "Creative Agency Theme by Design Estate.  It is designed to offer a scalable, easy to use and view theme, that has premium design principles applied to it.", 
+            "title": "Louis - Agency HTML Theme"
+        }, 
+        {
+            "location": "/themes/louis/#the-files-of-this-theme", 
+            "text": "When you download the theme from themeforest you get a *.zip file. After extraction you'll have a folder with the folloing structure:   static/  preprocessing/   The static/ folder includes the complete theme as compiled, ready to serve html, css and js.\nThe preprocessing/ folder includes the files that were used to compile the static folder. It requires jade, sass, and coffee.  The theme is based on the mojo.io preprocessing framework.", 
+            "title": "The files of this theme"
+        }, 
+        {
+            "location": "/themes/louis/#the-basic-logic-of-this-theme", 
+            "text": "To work with the theme we recommend you read this section to get a sense of how the theme works.  The wrapper  This theme has a wrapper. By wrapper we mean all content that permanently visible throughout all pages.", 
+            "title": "The basic logic of this theme"
+        }
+    ]
+}

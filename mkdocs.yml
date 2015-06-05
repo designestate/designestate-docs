@@ -1,0 +1,6 @@
+site_name: Design.Estate Docs
+pages:
+- Home: 'index.md'
+- Themes:
+    - Louis Theme: 'themes/louis.md'
+theme: readthedocs
