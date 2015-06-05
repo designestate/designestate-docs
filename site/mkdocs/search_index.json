@@ -2,23 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to the design.estate Docs\n\n\nThese pages will get you started on working with our themes.\nIn case you have any question to a particular part of the documentation, please write an email to docs@design.estate.\n\n\nAll theme documentation can be found unter docs.design.estate/themes/\n\n\nSome useful notes\n\n\n\n\nAll our themes are based on the mojo.io library.", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-the-designestate-docs", 
+            "text": "These pages will get you started on working with our themes.\nIn case you have any question to a particular part of the documentation, please write an email to docs@design.estate.  All theme documentation can be found unter docs.design.estate/themes/", 
+            "title": "Welcome to the design.estate Docs"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#some-useful-notes", 
+            "text": "All our themes are based on the mojo.io library.", 
+            "title": "Some useful notes"
         }, 
         {
             "location": "/themes/louis/", 
