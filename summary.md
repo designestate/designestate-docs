@@ -1,2 +1,2 @@
 * Themes:
-    *[Louis Club Theme](docs/themes/louis.md)
+  * [Louis Club Theme](docs/themes/louis.md)
